@@ -1,18 +1,18 @@
-<h1 align="center">Hey! Eu sou o Migu 😎</h1>
-<p align="center">Desenvolvedor Front-end em evolução 🚀 | Amante de setups e tecnologia 💻</p>
+<h1 align="center">Hey! I'm Migu 😎</h1>
+<p align="center"> Evolving Front-end Developer 🚀 | Lover of setups and technology💻</p>
 
 ---
 
-### 🧑‍💻 Sobre mim
-- 🌱 Aprendendo **HTML, CSS e JavaScript**
-- 🧠 Explorando o mundo do **Desenvolvimento Web**
-- 🎧 Viciado em música enquanto codifico
-- 🎮 Curto um vava 
+### 🧑‍💻 About me
+- 🌱 Learning **HTML, CSS and JavaScript**
+- 🧠 Exploring the world of **Web Development*
+- 🎧 Addicted to music while coding
+- 🎮 I like a valorant
 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies and Tools
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Miguuuuuu&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguuuuuu&theme=radical" width="47%" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📍 Onde me encontrar
+### 📍 Where to find me
 <p>
   <a href="https://instagram.com/miguel_ss_ofc1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
@@ -43,7 +43,7 @@
 
 ---
 
-### 👀 Visitantes
+### 👀 Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Miguuuuuu&style=flat-square&color=green" />
 </p>
